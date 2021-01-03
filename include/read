@@ -1,0 +1,12 @@
+table
+(category)
+1.cat_id
+2.cat_title
+(post)
+1.post_id
+2.post_title
+3.post_content
+4.post_image
+5.post_date
+6.post_author
+7.post_category
